@@ -27,9 +27,9 @@ public class BControllerCj2 {
 //		글쓰기 진행
 ////		toss
 //		tom1 work
-//		model.addAttribute("request",request);
-//		bServiceInter=new BWriteService();
-//		bServiceInter.execute(model);
+		model.addAttribute("request",request);
+		bServiceInter=new BWriteService();
+		bServiceInter.execute(model);
 
 		return "redirect:list";
 	}
