@@ -26,6 +26,7 @@ public class BControllerCj2 {
 		System.out.println("write()");
 //		글쓰기 진행
 ////		toss
+//		tom1 work
 //		model.addAttribute("request",request);
 //		bServiceInter=new BWriteService();
 //		bServiceInter.execute(model);
