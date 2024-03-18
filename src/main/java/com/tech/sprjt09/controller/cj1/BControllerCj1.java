@@ -19,6 +19,7 @@ public class BControllerCj1 {
 
 //		master of master
 //		master of master2
+//		master of master3
 		bServiceInter=new BListService();
 		bServiceInter.execute(model);
 
