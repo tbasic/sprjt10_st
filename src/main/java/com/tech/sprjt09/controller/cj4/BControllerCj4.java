@@ -22,6 +22,7 @@ public class BControllerCj4 {
 		System.out.println("delete()");
 ////		db에 데이터 삭제
 //		//toss
+//		tom3 comment
 //		model.addAttribute("request",request);
 //		bServiceInter=new BDeleteService();
 //		bServiceInter.execute(model);
