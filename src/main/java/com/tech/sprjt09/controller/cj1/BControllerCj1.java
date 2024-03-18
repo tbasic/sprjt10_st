@@ -16,6 +16,7 @@ public class BControllerCj1 {
 	public String list(Model model) {
 		System.out.println("list()");
 ////		데이터 가져오기
+//		master of master
 //		bServiceInter=new BListService();
 //		bServiceInter.execute(model);
 		
