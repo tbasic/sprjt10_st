@@ -18,6 +18,7 @@ public class BControllerCj1 {
 ////		데이터 가져오기
 
 //		master of master
+//		master of master2
 //		bServiceInter=new BListService();
 //		bServiceInter.execute(model);
 
