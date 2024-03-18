@@ -20,6 +20,7 @@ public class BControllerCj3 {
 		System.out.println("content_view()");
 		//(글번호)해당글 조회
 ////		toss
+//		tom2 comment
 //		model.addAttribute("request", request);
 //		bServiceInter=new BContentViewService();
 //		bServiceInter.execute(model);
