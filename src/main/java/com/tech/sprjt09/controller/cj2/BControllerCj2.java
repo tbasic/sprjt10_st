@@ -27,6 +27,8 @@ public class BControllerCj2 {
 //		글쓰기 진행
 ////		toss
 //		tom1 work
+//		tom1 work2
+//		tom1 work3
 		model.addAttribute("request",request);
 		bServiceInter=new BWriteService();
 		bServiceInter.execute(model);
